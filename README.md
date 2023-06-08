@@ -9,7 +9,6 @@ Demo: https://abdulwafa31094.github.io/expense-tracker/
 * Show balance, expense and income totals
 * Add new transactions and reflect in total
 * Delete item from DOM
-* Persist to local storage
 
 # Are there any course requirements or prerequisites?
 * HTML
