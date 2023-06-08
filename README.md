@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# Expense Tracker Web-App
+Keep track of income and expenses. Add and remove items and save to local storage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo: https://abdulwafa31094.github.io/expense-tracker/
+
+# Project Specification
+* Create UI for project 
+* Display transaction item in DOM
+* Show balance, expense and income totals
+* Add new transactions and reflect in total
+* Delete item from DOM
+* Persist to local storage
+
+# Are there any course requirements or prerequisites?
+* HTML
+* CSS
+* JavaScript
+
+# installation
+To get a local copy up and running, just Clone the repo
+           
+             git clone https://github.com/Abdulwafa31094/expense-tracker
+                
 
 ## Available Scripts
 
